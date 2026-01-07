@@ -78,21 +78,118 @@ a{
     display: flex;
     justify-content: space-around;
     padding: 50px;
-    width: 80%;
+    width: 95%;
+    gap: 2px;
     
     
 }
 ul{
    display: flex;
    flex-wrap: wrap;
-   gap: 25px;
+   gap: 40px;
    width: 35%;
    
 }
 h5{
-    font-size: 25px;
+    font-size: 40px;
     width: 20%;
+    color: rgb(36, 180, 156); 
+}
+.flag{
+    width: 50px;
+    height: 50px;
+  
+}
+
+.box4{
+    background-color: white;
+    width: 250px;
+    height: 250px;
+    font-size: 15px;
+    border-radius: 10px;
+    text-align: center;
+    
     
 }
+.box5{
+    background-color: white;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    text-align: center;
+   
+
+}
+.box6{
+    background-color: white;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    text-align: center;
+}
+.box7{
+    background-color: white;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    text-align: center;
+}
+.s4{
+    background-color: rgb(225, 247, 240);
+    display: flex;
+    gap: 5px;
+    height:700px ;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+  
+}
+.part2{
+    display: flex;
+    gap: 20px;
+    
+}
+.part3{
+    display: flex;
+    gap: 20px;
+}
+.cart{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: rgb(60, 168, 127);
+   
+}
+h3{
+    font-size: 30px;
+    color: black;   
+
+}
+.part1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.me{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 500px;
+    
+}
+.s5{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+   
+   
+
+
 
 
